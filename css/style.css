@@ -102,7 +102,7 @@ body {
 }
 
 .navigation ul li.active a {
-    color: #333;
+    color: #334;
 }
 
 .navigation ul li b:nth-child(1) {
@@ -146,9 +146,10 @@ body {
 }
 
 .navigation ul li.active b:nth-child(1),
-.navigation ul li.active b:nth-child(2){
+.navigation ul li.active b:nth-child(2) {
     display: block;
 }
+
 .navigation ul li a {
     position: relative;
     display: block;
